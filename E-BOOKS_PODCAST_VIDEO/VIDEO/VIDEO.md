@@ -1,6 +1,9 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Um Minuto no Futuro das IAs Generativas 🎥
 
-## 📒 Descrição
+
+https://github.com/mrosamml/lab-natty-or-not/assets/167915300/41a7c2c4-7892-4fee-a341-31ca39ee0ce8
+
+
 Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
 
 ## 🤖 Tecnologias Utilizadas
