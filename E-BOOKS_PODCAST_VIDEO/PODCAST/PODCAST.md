@@ -1,6 +1,10 @@
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
+# Podcast🎙️
+## Descobrindo IAs Generativas 
 
-## 📒 Descrição
+
+https://github.com/mrosamml/lab-natty-or-not/assets/167915300/df77f669-25e5-46a5-8db3-361e31472816
+
+
 Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
 
 ## 🤖 Tecnologias Utilizadas
@@ -13,8 +17,6 @@ Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo d
 
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
-
-[LINK PARA O PODCAST AQUI](Podcast_cinco_min_iAGs_m2.wav)
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
